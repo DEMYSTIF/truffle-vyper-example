@@ -1,5 +1,7 @@
 # Truffle-Vyper-Example
 
+Example project to test/compile/deploy smart contracts written in Vyper using Truffle.
+
 ## 🛠 Built With
 
 <div align="left">
