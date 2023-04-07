@@ -18,6 +18,7 @@ Clone the repository
 
 ```bash
 git clone https://github.com/DEMYSTIF/truffle-vyper-example
+cd truffle-vyper-example
 ```
 
 Install Truffle globally
